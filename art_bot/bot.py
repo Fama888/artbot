@@ -5,7 +5,7 @@ from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 
 TOKEN = "8635030604:AAFOUJg7nPogKWqUpzjbsbAJAyfNe8mDq6k"
 
-bot = Bot(token=TOKEN)
+bot = Bot("8635030604:AAFOUJg7nPogKWqUpzjbsbAJAyfNe8mDq6k")
 dp = Dispatcher()
 
 # Клавиатура
